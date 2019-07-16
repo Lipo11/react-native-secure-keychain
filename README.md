@@ -1,4 +1,4 @@
-# React native cdn image for remote urls
+# React native secure keychain
 Secure your keychain in react native app!
 
 ### Installing
