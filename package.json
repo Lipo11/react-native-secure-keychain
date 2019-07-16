@@ -1,0 +1,25 @@
+{
+  "name": "react-native-secure-keychain",
+  "version": "1.0.0",
+  "description": "Secure keychain for your react native app. (Like AsyncStorage)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipo11/react-native-secure-keychain.git"
+  },
+  "keywords": [
+    "secure",
+    "keychain",
+    "storage",
+    "aes"
+  ],
+  "author": "Alex Polomcak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lipo11/react-native-secure-keychain/issues"
+  },
+  "homepage": "https://github.com/Lipo11/react-native-secure-keychain#readme"
+}
