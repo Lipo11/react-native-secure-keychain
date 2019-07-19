@@ -1,6 +1,6 @@
 {
   "name": "react-native-secure-keychain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Secure keychain for your react native app. (Like AsyncStorage)",
   "main": "index.js",
   "scripts": {
